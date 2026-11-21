@@ -1,4 +1,4 @@
--- Active: 1744058703059@@127.0.0.1@5432@b5_psql_cs
+
 INSERT INTO publishers (name) VALUES
 ('Penguin Books'),
 ('HarperCollins'),
